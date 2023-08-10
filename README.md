@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pedrohvenancio
-- 👀 I’m interested in front-end projects
-- 🌱 I’m currently learning front-end basics, such as JavaScript/TypeScript and React
+- 👀 I’m interested in full-stack projects
+- 🌱 I’m currently learning full-stack basics, such as JavaScript/TypeScript, React/React Native, PHP/Laravel;
 - 📫 Linkedin: Pedro Henrique Venâncio
